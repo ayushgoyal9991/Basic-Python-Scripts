@@ -2,7 +2,7 @@
 """
 Created on Tue May 25 17:09:49 2021
 
-@author: Acer
+@author: Ayush
 """
 
 import random
