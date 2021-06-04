@@ -17,8 +17,8 @@ from telegram.error import BadRequest
 
 # CONFIGURATION
 TELEGRAM_TIMEOUT=getenv("TELEGRAM_TIMEOUT", 50)
-TELEGRAM_BOT_TOKEN=getenv("TELEGRAM_BOT_TOKEN", "873478704:AAFwEJf8l51hNUAT-mS1xB7-IJW-d_3c3ZQ") # <-- Configure here
-TELEGRAM_CHAT_ID=getenv("TELEGRAM_CHAT_ID", "936059389") # <-- Configure here
+TELEGRAM_BOT_TOKEN=getenv("TELEGRAM_BOT_TOKEN", "Your token here") # <-- Configure here
+TELEGRAM_CHAT_ID=getenv("TELEGRAM_CHAT_ID", "your id") # <-- Configure here
 TELEGRAM_REFRESH_SECONDS=getenv("TELEGRAM_REFRESH_SECONDS", 1)
 DOWNLOADS_FOLDER="/downloads"
 # END CONFIGURATION
